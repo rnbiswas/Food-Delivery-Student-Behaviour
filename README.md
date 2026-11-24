@@ -67,3 +67,4 @@ The survey used convenience and snowball sampling, some constructs were single-i
 - `report/`: full dissertation (PDF)
 - `images/`: charts from the analysis
 - `data/`: list of survey variables (raw responses are kept private)
+----------
